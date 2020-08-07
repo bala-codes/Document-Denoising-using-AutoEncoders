@@ -1,4 +1,4 @@
-# Document-Denoising-using-AutoEncoders
+# DOCUMENT DENOISING USIGN AUTO-ENCODERS.
 This Auto Encoder Neural Network model will be removing the noise from the image.
 
 Input Shape : (258, 540, 1) # Grayscale
