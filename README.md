@@ -11,5 +11,5 @@ Excerpts :
 <img src="https://github.com/bala-codes/Document-Denoising-using-AutoEncoders/blob/master/imgs/sample1.PNG" width="100%">
 <img src="https://github.com/bala-codes/Document-Denoising-using-AutoEncoders/blob/master/imgs/sample2.PNG" width="100%">
 
-Run it for yourself at [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bala-codes/Document-Denoising-using-AutoEncoders/blob/master/Denoising%20Dirty%20Documents.ipynb)
+Run it for yourself [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bala-codes/Document-Denoising-using-AutoEncoders/blob/master/Denoising%20Dirty%20Documents.ipynb)
 
